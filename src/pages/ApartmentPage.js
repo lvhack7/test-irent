@@ -46,7 +46,7 @@ const ApartmentPage = () => {
                                     <img
                                         width={400}
                                         className="d-block w-100"
-                                        src={`https://irent-app.herokuapp.com/images/${data.folder}/${i}.webp`}
+                                        src={``}
                                         alt="First slide"
                                     />
                                 </Carousel.Item>

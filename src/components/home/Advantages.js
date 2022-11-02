@@ -36,7 +36,7 @@ const Advantages = () => {
                     data-aos-delay="50"
                     data-aos-once="true">
                     <h4 className="featurette-heading fw-normal lh-1">3. Быстрое оформление</h4>
-                    <p className="lead">С помощью сервиса IRent вы способны оформить квартиру быстро и просто. Вы можете оформить квартиру за одни сутки. Онлайн сервис создан для вашего удобства поэтому мы сделали этот процесс очень интуитивным.</p>
+                    <p className="lead">С помощью сервиса Welhome вы способны оформить квартиру быстро и просто. Вы можете оформить квартиру за одни сутки. Онлайн сервис создан для вашего удобства поэтому мы сделали этот процесс очень интуитивным.</p>
                 </div>
                 <div className="col-md-5">
                     <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width={500} height={500} src="https://www.ivd.ru/images/cache/2021/10/20/fit_930_519_false_crop_1800_1012_0_94_q90_1989702_b036c2c7fe3356834bc0c427f.jpeg" />

@@ -23,7 +23,7 @@ function Hero() {
                 </div>
                 <div className="col-lg-6">
                     <h2 className="display-6 fw-bold lh-1 mb-4 text-white">Аренда квартир - Welhome</h2>
-                    <p className="lead mb-4 text-white">Компания по аренде квартир IRent предостовляет ассортимент квартир по городу Нур-Султан в разных регионов. Оформите квартиру онлайн быстро и легко!</p>
+                    <p className="lead mb-4 text-white">Компания по аренде квартир Welhome предостовляет ассортимент квартир по городу Нур-Султан в разных регионов. Оформите квартиру онлайн быстро и легко!</p>
                     <div className="d-grid gap-2 d-md-flex justify-content-md-start">
                         <button type="button" className="btn btn-warning btn-lg px-4 me-md-2" onClick={click}>Оформить</button>
                     </div>
